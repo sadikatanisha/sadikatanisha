@@ -3,7 +3,9 @@
   <img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='300"'>
 </p>
 <h1 align="center">Hi there, I'm Sadika </h1>
-<h3 align="center">I'm a software engineer with a passion for JavaScript and artificial intelligence. I recently graduated with a degree in software engineering and have been honing my skills through personal projects and exploration of emerging technologies.</h3>
+<p align="center">I'm a software engineer with a passion for JavaScript and artificial intelligence. I recently graduated with a degree in software engineering and have been honing my skills through personal projects and exploration of emerging technologies.
+I believe that programming is both an art and a science, and I'm constantly striving to find the perfect balance between these two elements in my work. My goal is to create solutions that are not only technically sound, but also visually engaging and user-friendly.
+</p>
 <p align="center">
   <a href="https://twitter.com/tanishasadika" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
@@ -22,6 +24,7 @@
   </a>
 </p>
 
-
+<h1 align="center">Stats</h1>
+<h1 align="center"> <img src="https://icons8.com/icon/9vWcxqGAYa7p/support" alt=""/>technologies </h1>
 
 
