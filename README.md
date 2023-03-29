@@ -25,7 +25,8 @@ I believe that programming is both an art and a science, and I'm constantly stri
 </p>
 
 <h1 align="center">Stats</h1>
-<h1 align="center">technologies </h1>
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sadikatanisha&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<h1 align="center">Technologies </h1>
 <div align="center">
 <img width="50px" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="Javascript"/>
 <img width="50px" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React"/>
