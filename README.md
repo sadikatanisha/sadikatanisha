@@ -25,6 +25,6 @@ I believe that programming is both an art and a science, and I'm constantly stri
 </p>
 
 <h1 align="center">Stats</h1>
-<h1 align="center"> <img src="https://icons8.com/icon/9vWcxqGAYa7p/support/](https://img.icons8.com/pixels/32/000000/experimental-search-pix.png" alt=""/>technologies </h1>
+<h1 align="center">technologies </h1>
 
 
