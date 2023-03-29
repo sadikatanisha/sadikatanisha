@@ -22,3 +22,5 @@
 </p>
 
 
+<h1 align="center">Hi there, I'm Sadika </h1>
+<h3>I'm a software engineer with a passion for JavaScript and artificial intelligence. I recently graduated with a degree in software engineering and have been honing my skills through personal projects and exploration of emerging technologies.</h3>
