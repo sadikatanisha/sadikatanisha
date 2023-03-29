@@ -27,7 +27,7 @@ I believe that programming is both an art and a science, and I'm constantly stri
 <h1 align="center">Stats</h1>
 <!-- [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sadikatanisha&theme=dracula)] -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sadikatanisha&layout=compact"/>
-<div>
+<div align="center">
 <a href="https://github.com/sadikatanisha/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sadikatanisha&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="sadika's Github stats" /></a>  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadikatanisha&theme=github_dark&layout=compact&hide_border=true" /></a>
 </div>
