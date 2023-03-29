@@ -26,5 +26,5 @@ I believe that programming is both an art and a science, and I'm constantly stri
 
 <h1 align="center">Stats</h1>
 <h1 align="center">technologies </h1>
-<img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="Javascript"/>
+<img width="40px" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="Javascript"/>
 
