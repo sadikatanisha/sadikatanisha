@@ -23,6 +23,49 @@ I believe that programming is both an art and a science, and I'm constantly stri
     <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=071A2C" alt="Facebook"/>
   </a>
 </p>
+<h1 align="center"> Projects </h1>
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">POKÉDEX</h3>
+        <br />
+        <a target="_blank" href="https://pokedexbysadika.netlify.app">
+            <img src="" width="100%" alt="Pokemon index"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://pokedexbysadika.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript, HTML, CSS, API</strong> - A fun pokeon index app</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Rigley 2: "Flappy Bug"</h3>
+        <br />
+      <a target="_blank" href="">
+            <img src="" width="100%"  alt="Rigley 2"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="" target="_blank">
+    <img src=""/>
+  </a>
+  <a href="" target="_blank">
+    <img src=""/>
+  </a>
+      </p>
+        <p><strong>Javascript</strong> - </p>
+    </td>
+  </tr>
+      
+</table>
 
 <h1 align="center">Stats</h1>
 <!-- [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sadikatanisha&theme=dracula)] -->
