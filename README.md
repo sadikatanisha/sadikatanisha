@@ -24,7 +24,7 @@ I believe that programming is both an art and a science, and I'm constantly stri
   </a>
 </p>
 <h1 align="center"> Projects </h1>
-<div>
+<div align="center">
 <table bordercolor="#66b2b2">
   
   <tr>
