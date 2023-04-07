@@ -24,6 +24,7 @@ I believe that programming is both an art and a science, and I'm constantly stri
   </a>
 </p>
 <h1 align="center"> Projects </h1>
+<div>
 <table bordercolor="#66b2b2">
   
   <tr>
@@ -66,7 +67,7 @@ I believe that programming is both an art and a science, and I'm constantly stri
   </tr>
       
 </table>
-
+</div>
 <h1 align="center">Stats</h1>
 <!-- [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sadikatanisha&theme=dracula)] -->
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sadikatanisha&layout=compact"/> -->
