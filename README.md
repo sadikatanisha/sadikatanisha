@@ -25,27 +25,27 @@ I believe that programming is both an art and a science, and I'm constantly stri
 </p>
 <h1 align="center"> Projects </h1>
 <div align="center">
-<!-- <table bordercolor="#66b2b2"> -->
+<table bordercolor="#66b2b2">
   
-<!--   <tr> -->
-<!--     <td width="50%" valign="top"> -->
+<tr>
+<td width="50%" valign="top">
       
-        <h3 align="center">POKÉDEX</h3>
-        <br/>
-        <a target="_blank" href="https://pokedexbysadika.netlify.app">
-            <img align="center" src="https://github.com/sadikatanisha/POKEDEX/blob/main/pokedex.gif" width="80%" alt="Pokemon index"/>
-        </a>
-        <br/>
-        <p align="center">
+<h3 align="center">POKÉDEX</h3>
+<br/>
+<a target="_blank" href="https://pokedexbysadika.netlify.app">
+<img align="center" src="https://github.com/sadikatanisha/POKEDEX/blob/main/pokedex.gif" width="80%" alt="Pokemon index"/>
+</a>
+<br/>
+<p align="center">
           
-       <a href="https://github.com/" target="_blank">
-       <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-       </a>  
-       <a href="https://pokedexbysadika.netlify.app" target="_blank">
-       <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-      </a>
-      </p>
-        <p><strong>Javascript, HTML, CSS, API</strong> - A fun pokeon index app</p>
+<a href="https://github.com/" target="_blank">
+<img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+</a>  
+<a href="https://pokedexbysadika.netlify.app" target="_blank">
+<img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+</a>
+</p>
+<p><strong>Javascript, HTML, CSS, API</strong> - A fun pokeon index app</p>
      
       
 <!--     </td> -->
