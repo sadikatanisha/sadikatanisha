@@ -28,7 +28,7 @@ I believe that programming is both an art and a science, and I'm constantly stri
 <table bordercolor="#66b2b2">
   
   <tr>
-    <td width="50%" valign="top">
+<!--     <td width="50%" valign="top"> -->
       
         <h3 align="center">POKÉDEX</h3>
         <br/>
@@ -48,8 +48,8 @@ I believe that programming is both an art and a science, and I'm constantly stri
         <p><strong>Javascript, HTML, CSS, API</strong> - A fun pokeon index app</p>
      
       
-    </td>
-    <td width="50%" valign="top">
+<!--     </td> -->
+<!--     <td width="50%" valign="top"> -->
       <h3 align="center">"hello"</h3>
         <br />
       <a target="_blank" href="">
@@ -66,7 +66,7 @@ I believe that programming is both an art and a science, and I'm constantly stri
   </a>
       </p>
         <p><strong>Javascript</strong> - </p>
-    </td>
+<!--     </td> -->
   </tr>
       
 </table>
