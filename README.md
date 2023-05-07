@@ -66,10 +66,10 @@ I believe that programming is both an art and a science, and I'm constantly stri
 </a>
 </p>
 <p><strong>Javascript</strong> - </p>
-<!--     </td> -->
-<!--   </tr> -->
+</td>
+</tr> 
       
-<!-- </table> -->
+</table>
 </div>
 <h1 align="center">Stats</h1>
 <!-- [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sadikatanisha&theme=dracula)] -->
