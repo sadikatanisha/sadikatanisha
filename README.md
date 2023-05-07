@@ -48,24 +48,24 @@ I believe that programming is both an art and a science, and I'm constantly stri
 <p><strong>Javascript, HTML, CSS, API</strong> - A fun pokeon index app</p>
      
       
-<!--     </td> -->
-<!--     <td width="50%" valign="top"> -->
-      <h3 align="center">"hello"</h3>
-        <br />
-      <a target="_blank" href="">
-            <img src="" width="100%"  alt="Rigley 2"/>
-        </a>
-        <br />
-        <p align="center">
+</td>
+<td width="50%" valign="top">
+<h3 align="center">"hello"</h3>
+<br />
+<a target="_blank" href="">
+<img src="" width="100%"  alt="Rigley 2"/>
+</a>
+<br />
+<p align="center">
           
-  <a href="" target="_blank">
-    <img src=""/>
-  </a>
-  <a href="" target="_blank">
-    <img src=""/>
-  </a>
-      </p>
-        <p><strong>Javascript</strong> - </p>
+<a href="" target="_blank">
+<img src=""/>
+</a>
+<a href="" target="_blank">
+<img src=""/>
+</a>
+</p>
+<p><strong>Javascript</strong> - </p>
 <!--     </td> -->
 <!--   </tr> -->
       
