@@ -29,7 +29,8 @@ I believe that programming is both an art and a science, and I'm constantly stri
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">POKÉDEX</h3>
+      <div align="center">
+        <h3 align="center">POKÉDEX</h3>
         <br />
         <a target="_blank" href="https://pokedexbysadika.netlify.app">
             <img align="center" src="https://github.com/sadikatanisha/POKEDEX/blob/main/pokedex.gif" width="80%" alt="Pokemon index"/>
@@ -45,6 +46,8 @@ I believe that programming is both an art and a science, and I'm constantly stri
   </a>
       </p>
         <p><strong>Javascript, HTML, CSS, API</strong> - A fun pokeon index app</p>
+      </div>
+      
     </td>
     <td width="50%" valign="top">
       <h3 align="center">"hello"</h3>
