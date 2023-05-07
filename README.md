@@ -25,9 +25,9 @@ I believe that programming is both an art and a science, and I'm constantly stri
 </p>
 <h1 align="center"> Projects </h1>
 <div align="center">
-<table bordercolor="#66b2b2">
+<!-- <table bordercolor="#66b2b2"> -->
   
-  <tr>
+<!--   <tr> -->
 <!--     <td width="50%" valign="top"> -->
       
         <h3 align="center">POKÉDEX</h3>
@@ -67,9 +67,9 @@ I believe that programming is both an art and a science, and I'm constantly stri
       </p>
         <p><strong>Javascript</strong> - </p>
 <!--     </td> -->
-  </tr>
+<!--   </tr> -->
       
-</table>
+<!-- </table> -->
 </div>
 <h1 align="center">Stats</h1>
 <!-- [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sadikatanisha&theme=dracula)] -->
