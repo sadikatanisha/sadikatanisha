@@ -49,7 +49,7 @@ I believe that programming is both an art and a science, and I'm constantly stri
 <img src="https://img.shields.io/badge/website-%23E4405F.svg?&style=for-the-badge&logo=wordpress&logoColor=white&color=071A2C" alt="Website"/>                   
 </a>
 </p>
-<p><strong>Javascript, HTML, CSS, API</strong> - A fun pokeon index app</p>
+<p align="center"><strong>Javascript, HTML, CSS, API</strong> - A fun pokeon index app</p>
      
       
 </td>
