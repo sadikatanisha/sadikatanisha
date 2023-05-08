@@ -32,9 +32,12 @@ I believe that programming is both an art and a science, and I'm constantly stri
       
 <h3 align="center">POKÉDEX</h3>
 <br/>
-<a target="_blank" href="https://pokedexbysadika.netlify.app">
+<div align="center>
+<a  href="https://pokedexbysadika.netlify.app" target="_blank">
 <img align="center" src="https://github.com/sadikatanisha/POKEDEX/blob/main/pokedex.gif" width="80%" alt="Pokemon index"/>
 </a>
+</div>
+
 <br/>
 <p align="center">
           
