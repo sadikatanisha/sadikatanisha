@@ -33,7 +33,7 @@ I believe that programming is both an art and a science, and I'm constantly stri
 <h3 align="center">POKÉDEX</h3>
 <br/>
 <div align="center>
-<a  href="https://pokedexbysadika.netlify.app" target="_blank">
+<!--<a  href="https://pokedexbysadika.netlify.app" target="_blank"> -->
 <img align="center" src="https://github.com/sadikatanisha/POKEDEX/blob/main/pokedex.gif" width="80%" alt="Pokemon index"/>
 </a>
 </div>
@@ -41,12 +41,12 @@ I believe that programming is both an art and a science, and I'm constantly stri
 <br/>
 <p align="center">
           
-<a href="https://github.com/" target="_blank">
+<a href="https://github.com/sadikatanisha/POKEDEX/" target="_blank">
 <!--<img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/> -->
 <img src="https://img.shields.io/badge/github-%231DA1F2.svg?&style=for-the-badge&logo=github&logoColor=white&color=071A2C" alt="Github"/>                                                                                                                       
 </a>  
 <a href="https://pokedexbysadika.netlify.app" target="_blank">
-<img src="https://img.shields.io/badge/wordpress-%23E4405F.svg?&style=for-the-badge&logo=website&logoColor=white&color=071A2C" alt="Website"/>                   
+<img src="https://img.shields.io/badge/website-%23E4405F.svg?&style=for-the-badge&logo=wordpress&logoColor=white&color=071A2C" alt="Website"/>                   
 </a>
 </p>
 <p><strong>Javascript, HTML, CSS, API</strong> - A fun pokeon index app</p>
