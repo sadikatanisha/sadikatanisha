@@ -34,13 +34,12 @@ I believe that programming is both an art and a science, and I'm constantly stri
 <br/>
 <div align="center>
 <a href="https://pokedexbysadika.netlify.app" target="_blank">
-<img align="center" src="https://github.com/sadikatanisha/POKEDEX/blob/main/pokedex.gif" width="80%" alt="Pokemon index"/>
+<img align="center" src="https://github.com/sadikatanisha/POKEDEX/blob/main/pokedex.gif" width="100%" alt="Pokemon index"/>
 </a>  
 </div>
 
 <br/>
-<p align="center">
-          
+<p align="center">         
 <a href="https://github.com/sadikatanisha/POKEDEX/" target="_blank">
 <!--<img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/> -->
 <img src="https://img.shields.io/badge/github-%231DA1F2.svg?&style=for-the-badge&logo=github&logoColor=white&color=071A2C" alt="Github"/>                                                                                                                       
