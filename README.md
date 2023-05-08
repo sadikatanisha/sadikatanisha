@@ -42,7 +42,8 @@ I believe that programming is both an art and a science, and I'm constantly stri
 <p align="center">
           
 <a href="https://github.com/" target="_blank">
-<img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+<!--<img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/> -->
+<img src="https://img.shields.io/badge/github-%231DA1F2.svg?&style=for-the-badge&logo=github&logoColor=white&color=071A2C" alt="Github"/>                                                                                                                       
 </a>  
 <a href="https://pokedexbysadika.netlify.app" target="_blank">
 <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
