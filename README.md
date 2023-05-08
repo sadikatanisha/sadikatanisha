@@ -28,6 +28,7 @@ I believe that programming is both an art and a science, and I'm constantly stri
 <table bordercolor="#66b2b2">
   
 <tr>
+<!--First One-->
 <td width="50%" valign="top">
       
 <h3 align="center">POKÉDEX</h3>
@@ -48,27 +49,30 @@ I believe that programming is both an art and a science, and I'm constantly stri
 <img src="https://img.shields.io/badge/website-%23E4405F.svg?&style=for-the-badge&logo=wordpress&logoColor=white&color=071A2C" alt="Website"/>                   
 </a>
 </p>
-<p align="center"><strong>Javascript, HTML, CSS, API</strong> - A fun pokeon index app</p>
-     
-      
+<p align="center"><strong>Javascript, HTML, CSS, API</strong> - A fun pokeon index app</p>      
 </td>
+                 
+<!--Second One-->               
 <td width="50%" valign="top">
-<h3 align="center">"hello"</h3>
-<br />
-<a target="_blank" href="">
-<img src="" width="100%"  alt="Rigley 2"/>
-</a>
-<br />
-<p align="center">
-          
-<a href="" target="_blank">
-<img src=""/>
-</a>
-<a href="" target="_blank">
-<img src=""/>
+      
+<h3 align="center">Wordle</h3>
+<br/>
+<div align="center>
+<a href="https://pokedexbysadika.netlify.app" target="_blank">
+<img align="center" src="https://github.com/sadikatanisha/POKEDEX/blob/main/pokedex.gif" width="100%" alt="Pokemon index"/>
+</a>  
+</div>
+
+<br/>
+<p align="center">         
+<a href="https://github.com/sadikatanisha/POKEDEX/" target="_blank">
+<img src="https://img.shields.io/badge/github-%231DA1F2.svg?&style=for-the-badge&logo=github&logoColor=white&color=071A2C" alt="Github"/>                         </a>  
+  
+<a href="https://pokedexbysadika.netlify.app" target="_blank">
+<img src="https://img.shields.io/badge/website-%23E4405F.svg?&style=for-the-badge&logo=wordpress&logoColor=white&color=071A2C" alt="Website"/>                   
 </a>
 </p>
-<p><strong>Javascript</strong> - </p>
+<p align="center"><strong>Javascript, HTML, CSS, API</strong> - A fun Wordle app</p>      
 </td>
 </tr> 
       
