@@ -49,7 +49,7 @@ I believe that programming is both an art and a science, and I'm constantly stri
 <img src="https://img.shields.io/badge/website-%23E4405F.svg?&style=for-the-badge&logo=wordpress&logoColor=white&color=071A2C" alt="Website"/>                   
 </a>
 </p>
-<p align="center"><strong>Javascript, HTML, CSS, API</strong> - A fun pokeon index app</p>      
+<p align="center"><strong>Javascript, HTML, CSS, API</strong> - A fun pokemon index app</p>      
 </td>
                  
 <!--Second One-->               
@@ -59,13 +59,13 @@ I believe that programming is both an art and a science, and I'm constantly stri
 <br/>
 <div align="center>
 <a href="https://pokedexbysadika.netlify.app" target="_blank">
-<img align="center" src="https://github.com/sadikatanisha/POKEDEX/blob/main/pokedex.gif" width="100%" alt="Pokemon index"/>
+<img align="center" src="https://github.com/sadikatanisha/order-management-system/blob/main/demo.gif" width="100%" alt="Order Management System"/>
 </a>  
 </div>
 
 <br/>
 <p align="center">         
-<a href="https://github.com/sadikatanisha/POKEDEX/" target="_blank">
+<a href=https://github.com/sadikatanisha/order-management-system" target="_blank">
 <img src="https://img.shields.io/badge/github-%231DA1F2.svg?&style=for-the-badge&logo=github&logoColor=white&color=071A2C" alt="Github"/>                         </a>  
   
 <a href="https://pokedexbysadika.netlify.app" target="_blank">
