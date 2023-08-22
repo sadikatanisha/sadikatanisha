@@ -65,14 +65,14 @@ I believe that programming is both an art and a science, and I'm constantly stri
 
 <br/>
 <p align="center">         
-<a href=https://github.com/sadikatanisha/order-management-system" target="_blank">
+<a href="https://github.com/sadikatanisha/order-management-system/" target="_blank">
 <img src="https://img.shields.io/badge/github-%231DA1F2.svg?&style=for-the-badge&logo=github&logoColor=white&color=071A2C" alt="Github"/>                         </a>  
   
 <a href="https://pokedexbysadika.netlify.app" target="_blank">
 <img src="https://img.shields.io/badge/website-%23E4405F.svg?&style=for-the-badge&logo=wordpress&logoColor=white&color=071A2C" alt="Website"/>                   
 </a>
 </p>
-<p align="center"><strong>Javascript, HTML, CSS, API</strong> - A fun Wordle app</p>      
+<p align="center"><strong> EJS, Express & MongoDB </strong> - Full Stack CRUD Application</p>      
 </td>
 </tr> 
       
