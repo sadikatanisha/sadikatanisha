@@ -55,7 +55,7 @@ I believe that programming is both an art and a science, and I'm constantly stri
 <!--Second One-->               
 <td width="50%" valign="top">
       
-<h3 align="center">Wordle</h3>
+<h3 align="center">Order Management App</h3>
 <br/>
 <div align="center>
 <a href="https://pokedexbysadika.netlify.app" target="_blank">
@@ -72,7 +72,7 @@ I believe that programming is both an art and a science, and I'm constantly stri
 <img src="https://img.shields.io/badge/website-%23E4405F.svg?&style=for-the-badge&logo=wordpress&logoColor=white&color=071A2C" alt="Website"/>                   
 </a>
 </p>
-<p align="center"><strong> EJS, Express & MongoDB </strong> - Full Stack CRUD Application</p>      
+<p align="center"><strong> EJS, Express & MongoDB </strong> - A Full Stack CRUD Application</p>      
 </td>
 </tr> 
       
