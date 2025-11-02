@@ -4,7 +4,7 @@
 </p>
 <h1 align="center">Hi there, I'm Sadika </h1>
 <p align="center">I'm a software engineer with a passion for JavaScript and artificial intelligence. I recently graduated with a degree in software engineering and have been honing my skills through personal projects and exploration of emerging technologies.
-I believe that programming is both an art and a science, and I'm constantly striving to find the perfect balance between these two elements in my work. My goal is to create solutions that are not only technically sound, but also visually engaging and user-friendly.
+Programming is both an art and a science, and I'm constantly striving to find the perfect balance between these two elements in my work. My goal is to create solutions that are not only technically sound, but also visually engaging and user-friendly.
 </p>
 <p align="center">
   <a href="https://twitter.com/tanishasadika" target="_blank">
